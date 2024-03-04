@@ -18,8 +18,8 @@ ServerEvents.recipes(event => {
 
 		type: 'mekanism:centrifuging',
 		input:
-			{gas: 'mekanism:plutonium', amount: 1000},
+			{gas: 'mekanism:plutonium', amount: 10},
 		output:
-			{gas: 'mekanism:polonium', amount: 100}
+			{gas: 'mekanism:polonium', amount: 1}
 	});
 });
