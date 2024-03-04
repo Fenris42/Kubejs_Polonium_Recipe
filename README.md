@@ -1,5 +1,5 @@
 # Kubejs Mekanism Polonium Alternate Recipe for Extreme Reactors / Big Reactors
- Conversion recipe path between Extreme Reactors Blutonium to Mekanism Polonium
+ Conversion recipe path between Extreme Reactors Blutonium to Mekanism Polonium in Minecraft
 
 ## Description:
 Mekanism Mekasuit requires Polonium to produce, which can only be made by from nucelar waste from a Mekanism fission reactor processed in a solar neutron activator. 
