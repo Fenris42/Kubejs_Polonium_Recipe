@@ -18,7 +18,7 @@ Mekanism Isotopic Centrifuge
 
 1000mb of Mekanism Plutonium Gas = 100mb of Mekanism Polonium Gas
 
-## Installation
+## Installation:
 1. Download polonium.js from latest [release](https://github.com/Fenris42/Kubejs_Polonium_Recipe/releases)
 2. Download and install mod [KubeJS](https://www.curseforge.com/minecraft/mc-mods/kubejs)
 3. Launch Minecraft to generate the KubeJS folders
