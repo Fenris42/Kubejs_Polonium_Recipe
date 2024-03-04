@@ -2,7 +2,7 @@
  Conversion recipe path between Extreme Reactors Blutonium to Mekanism Polonium in Minecraft
 
 ## Description:
-Mekanism Mekasuit requires Polonium to produce, which can only be made by from nucelar waste from a Mekanism fission reactor processed in a solar neutron activator. 
+Mekanism Mekasuit requires Polonium to craft, which can only be made by from nucelar waste from a Mekanism fission reactor processed in a solar neutron activator. 
 
 As I have gone down the Extreme Reactors/Big Reactors route instead I did not want to build a seperate reactor just for this 1 off build. Additionally I did not want to use the solar neutron activator because of its restrictions to being outside, its climate requirements and variable output due to solar exposure so I created an alternate recipe for myself and others in the same situation.
 
