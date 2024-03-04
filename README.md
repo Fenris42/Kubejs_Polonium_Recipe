@@ -8,12 +8,12 @@ As I have gone down the Extreme Reactors/Big Reactors route instead I did not wa
 
  ## Recipe Path:
 
- ### Step 1
+ ### Step 1:
 Mekanism Chemical Oxidizer
 
 1 BigReactors Blutonium Ingot = 1000mb of Mekanism Plutonium Gas
 
-### Step 2
+### Step 2:
 Mekanism Isotopic Centrifuge
 
 1000mb of Mekanism Plutonium Gas = 100mb of Mekanism Polonium Gas
