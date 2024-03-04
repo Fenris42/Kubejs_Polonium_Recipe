@@ -5,9 +5,14 @@
 Mekanism Mekasuit requires Polonium to produce, which can only be made by from nucelar waste from a Mekanism fission reactor processed in a solar neutron activator. As I have gone down the Extreme Reactors/Big Reactors route instead I did not want to build a seperate reactor just for this 1 off build. Additionally I did not want to use the solar neutron activator because of its restrictions to being outside, its climate requirements and variable output due to solar exposure so I created an alternate recipe.
 
  ## Recipe Path:
- 1 Blutonium ingot in a Mekanism Chemical Oxidizer = 1000mb of Mekanims Plutonium Gas
 
-1000mb of Mekanism Plutonium Gas in a Mekanism Isotopic Centrifuge = 100mb of Mekanism Polonium Gas
+ ### Step 1
+Mekanism Chemical Oxidizer
+1 BigReactors Blutonium Ingot = 1000mb of Mekanism Plutonium Gas
+
+### Step 2
+Mekanism Isotopic Centrifuge
+1000mb of Mekanism Plutonium Gas = 100mb of Mekanism Polonium Gas
 
 ## Installation
 Download polonium.js from latest [release](https://github.com/Fenris42/Kubejs_Polonium_Recipe/releases)
