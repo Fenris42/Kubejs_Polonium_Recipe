@@ -8,10 +8,12 @@ Mekanism Mekasuit requires Polonium to produce, which can only be made by from n
 
  ### Step 1
 Mekanism Chemical Oxidizer
+
 1 BigReactors Blutonium Ingot = 1000mb of Mekanism Plutonium Gas
 
 ### Step 2
 Mekanism Isotopic Centrifuge
+
 1000mb of Mekanism Plutonium Gas = 100mb of Mekanism Polonium Gas
 
 ## Installation
