@@ -1,4 +1,4 @@
-# Kubejs Polonium Alternate Recipe for Extreme Reactors or Big Reactors
+# Kubejs Polonium Alternate Recipe for Extreme Reactors / Big Reactors
  Conversion recipe path between Extreme Reactors Blutonium to Mekanism Polonium
 
 ## Description:
